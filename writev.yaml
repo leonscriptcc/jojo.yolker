@@ -1,0 +1,12 @@
+writevConfig:
+  srcDir:
+    path: /Users/leonscript/Documents/YNET/yolker/src/
+    sheet: Sheet1
+    cells: [B2,A10]
+
+  destFile:
+    exmPath: /Users/leonscript/Documents/YNET/yolker/d.xlsx
+    destPath: /Users/leonscript/Documents/YNET/yolker/r.xlsx
+    sheet: Sheet1
+    cell: A3
+
